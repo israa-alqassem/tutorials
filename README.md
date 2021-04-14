@@ -1,5 +1,5 @@
 ## Tutorials
-This repository contains tutorials/presentations I've given during my PhD in various computer science topics.
+This repository contains tutorials/presentations I've given during my PhD.
 ### Topics
 * Short introduction to Snakemake workflow management system
 * Introduction to MapReduce
